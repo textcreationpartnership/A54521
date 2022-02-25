@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition against the East-India Company To the Honourable the Commons of England in Parliament assembled. The humble petition of several merchants and traders, in and about the City of London, and other Their Majesties subjects.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54521</idno>
+            <idno type="STC">Wing P1731</idno>
+            <idno type="STC">ESTC R217889</idno>
+            <idno type="EEBO-CITATION">99829532</idno>
+            <idno type="PROQUEST">99829532</idno>
+            <idno type="VID">33972</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33972)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1996:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition against the East-India Company To the Honourable the Commons of England in Parliament assembled. The humble petition of several merchants and traders, in and about the City of London, and other Their Majesties subjects.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Braddyll and Robert Everingham, and are to be sold at the Seven Stars in Ave-Mary-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XCI. [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:33972:1" rendition="simple:additions"/>
+            <head>A Petition againſt the Eaſt-India Company.</head>
+            <head type="sub">To the Honourable the Commons of <hi>England</hi> in Parliament aſſembled.</head>
+            <head type="sub">The humble Petition of ſeveral Merchants and Traders, in and about the City of <hi>London,</hi> and other Their Majeſties Subjects.</head>
+            <opener>SHEWETH,</opener>
+            <p>THAT the Trade to the <hi>Eaſt-Indies</hi> is of very great Importance to this Nation, and yet by the manifold Abuſes and un<g ref="char:EOLhyphen"/>lawful Practices of the preſent <hi>Eaſt-India</hi> Company, both at Home and Abroad, who have Managed the ſame only for their private Gain, without any regard to the publick Good, the ſaid Trade is like to be utterly loſt to this Kingdom, and to fall into the Hands of Foreigners, unleſs timely prevented by ſome better Regulation thereof, on a new Joint-ſtock and Conſtitution.</p>
+            <p>YO<g ref="char:V">Ʋ</g>R Petitioners therefore moſt humbly Pray this Honourable Houſe, for preventing ſo National a Miſchief, to take into your Conſideration the Eſtabliſhing of a New<hi>Eaſt India</hi> Company, in ſuch Manner, and with ſuch Powers and Limitations, as in your Great Wiſdom ſhall be thought moſt Conducing to the Preſervation of ſo Beneficial a Trade to this Kingdom,</p>
+            <closer>
+               <signed>And your Petitioners, ſhall ever Pray, <hi>&amp;c.</hi>
+                  <list>
+                     <item>Tho. Pilkington.</item>
+                     <item>John Houblon.</item>
+                     <item>P. Ward.</item>
+                     <item>Abraham Beake.</item>
+                     <item>Barrington Eaton.</item>
+                     <item>Sam. Day.</item>
+                     <item>Iſaac Stackhoure.</item>
+                     <item>Thomas Hunt.</item>
+                     <item>Petervan Attaroy.</item>
+                     <item>Daniel Mercer.</item>
+                     <item>Joſ. Groſvenor.</item>
+                     <item>Gilbert Nelſon.</item>
+                     <item>Ch. Middleton.</item>
+                     <item>Ch. Tower.</item>
+                     <item>George Boddington</item>
+                     <item>John Garlick.</item>
+                     <item>Edm. Prideaux.</item>
+                     <item>Arthur Moore.</item>
+                     <item>Phin. Bowes.</item>
+                     <item>Thomas Gardiner.</item>
+                     <item>Robert Raworth.</item>
+                     <item>Robert Moore.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>organ.</item>
+                     <item>John Emilie</item>
+                     <item>Hump. Willet.</item>
+                     <item>John Buckworth.</item>
+                     <item>John Wood.</item>
+                     <item>John Ivatt.</item>
+                     <item>John Shipman.</item>
+                     <item>John Smith.</item>
+                     <item>Sam. Lock.</item>
+                     <item>George Richards.</item>
+                     <item>Charles Price.</item>
+                     <item>John Johnſon.</item>
+                     <item>John Eyles.</item>
+                     <item>John Lloyd.</item>
+                     <item>John Berry.</item>
+                     <item>Will. Woolley, <hi>jun.</hi>
+                     </item>
+                     <item>Will. Fawkener.</item>
+                     <item>Nat. Horneby.</item>
+                     <item>Tho. Coulſon.</item>
+                     <item>John Ward.</item>
+                     <item>Timothy Lannoy.</item>
+                     <item>George Treadway.</item>
+                     <item>Michael Godfrey.</item>
+                     <item>George White.</item>
+                     <item>Benj. Rokeby.</item>
+                     <item>John Nicholſon.</item>
+                     <item>Charles Horde.</item>
+                     <item>Peter Power.</item>
+                     <item>Tho. Lucas.</item>
+                     <item>George Finch.</item>
+                     <item>Will. Crowch.</item>
+                     <item>Gerard Conyers.</item>
+                     <item>Joſeph Reynardſon.</item>
+                     <item>James Bateman.</item>
+                     <item>Tho. Palmer.</item>
+                     <item>Laurence Galey.</item>
+                     <item>Gilbert Heathcote.</item>
+                     <item>John Creſner.</item>
+                     <item>Richard Banckes.</item>
+                     <item>John Cary.</item>
+                     <item>John Gardner.</item>
+                     <item>Wadham Wyndham.</item>
+                     <item>Tho. Bowrey.</item>
+                     <item>Henry Mansfeild.</item>
+                     <item>Will. Pococke.</item>
+                     <item>Richard Barrett.</item>
+                     <item>John Love.</item>
+                     <item>Richard Cary.</item>
+                     <item>John Sikes.</item>
+                     <item>William Stewart.</item>
+                     <item>Hen. Lewes.</item>
+                     <item>John Parkshead.</item>
+                     <item>Tho. Pilkington.</item>
+                     <item>Richard Haynes.</item>
+                     <item>William Gardiner.</item>
+                     <item>Ebenezer Dunwell.</item>
+                     <item>Samuel Hayward.</item>
+                     <item>George Horſnell.</item>
+                     <item>Will. Lethieullier.</item>
+                     <item>Edward Darell.</item>
+                     <item>Bedingf. Heigham.</item>
+                     <item>Will. Beckford.</item>
+                     <item>Char. Ball.</item>
+                     <item>John Wright.</item>
+                     <item>Rich. Snagg.</item>
+                     <item>Will. Snelling.</item>
+                     <item>Robert Hedges.</item>
+                     <item>Nich. Baſſett.</item>
+                     <item>Samuel Garrard.</item>
+                     <item>Robert Briſcoe.</item>
+                     <item>Dan. Morſe.</item>
+                     <item>Anth. Green.</item>
+                     <item>Tho. Hartopp.</item>
+                     <item>John Bowler.</item>
+                     <item>Michael Racket.</item>
+                     <item>Will. Heſter.</item>
+                     <item>Richard Blackam.</item>
+                     <item>John Barnard.</item>
+                     <item>Will. Booth.</item>
+                     <item>Charles Harea.</item>
+                     <item>John Newton.</item>
+                     <item>Richard Hamond.</item>
+                     <item>Rowland Davenant.</item>
+                     <item>Thomas Kynaſton</item>
+                     <item>Cornelius Maſon.</item>
+                     <item>John Carter.</item>
+                     <item>John Fentrill.</item>
+                     <item>Walter Coventry.</item>
+                     <item>John Eſton.</item>
+                     <item>Joſ Morewood.</item>
+                     <item>Iſaac Bainard.</item>
+                     <item>John Egleton.</item>
+                     <item>Auguſtine Holt.</item>
+                     <item>Michael Dunwell.</item>
+                     <item>John Taylor.</item>
+                     <item>Peter Floyer.</item>
+                     <item>Tho. Wearg.</item>
+                     <item>William Ivatt.</item>
+                     <item>James Noke.</item>
+                     <item>Will. Perris.</item>
+                     <item>Jam. Delabutomuire.</item>
+                     <item>Joſeph Wright, <hi>jun.</hi>
+                     </item>
+                     <item>Henry Emmett.</item>
+                     <item>Joh. Scot.</item>
+                     <item>Edw. Greene.</item>
+                     <item>Sam. Weſtall.</item>
+                     <item>Edw. Haberfeild.</item>
+                     <item>Henry Sikes.</item>
+                     <item>Richard Slouthele.</item>
+                     <item>Nath. Gould.</item>
+                     <item>John Powell.</item>
+                     <item>Henry Bellamy.</item>
+                     <item>Henry Chapman.</item>
+                     <item>Richard Mead</item>
+                     <item>R. Harkſha<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                     <item>Sam. Ball.</item>
+                     <item>Sam. Naſh, <hi>junior.</hi>
+                     </item>
+                     <item>Robert Atwood.</item>
+                     <item>Will. Crey.</item>
+                     <item>Thomas Samford.</item>
+                     <item>Paul Beuren.</item>
+                     <item>George Davenant.</item>
+                     <item>Edward Stringer.</item>
+                     <item>Tho. Mulſo.</item>
+                     <item>Tho Breton.</item>
+                     <item>Henry Harington.</item>
+                     <item>Nich. Morſe.</item>
+                     <item>John Richardſon.</item>
+                     <item>Robert Stevens.</item>
+                     <item>John Smith.</item>
+                     <item>John Hillerſdon.</item>
+                     <item>Tim. Sutton.</item>
+                     <item>Francis Marck.</item>
+                     <item>Lewis Gervaize.</item>
+                     <item>Stephen Jermyn.</item>
+                     <item>Heritage Lenton.</item>
+                     <item>Anth. Sturt, <hi>junior.</hi>
+                     </item>
+                     <item>Anth. Balam.</item>
+                     <item>George Woodford.</item>
+                     <item>James Parker.</item>
+                     <item>John Sherbrooke.</item>
+                     <item>Will. Monſon.</item>
+                     <item>Will. Carbonnell.</item>
+                     <item>Philip Wheak.</item>
+                     <item>William Churchill.</item>
+                     <item>Will. Richardſon.</item>
+                     <item>Francis Camfeild.</item>
+                     <item>John Eſtcourt.</item>
+                     <item>Chr. Whichcot.</item>
+                     <item>Roger Burrough.</item>
+                     <item>Tho. Joyner.</item>
+                     <item>Walter Hawys.</item>
+                     <item>John Smith.</item>
+                     <item>Will. Grammar.</item>
+                     <item>Tho. Powell.</item>
+                     <item>Rich. Fynney.</item>
+                     <item>Edw. Legh.</item>
+                     <item>Will. Chaſe.</item>
+                     <item>John Frank.</item>
+                     <item>Benj. Middleton.</item>
+                     <item>Will. Hill.</item>
+                     <item>John Townſend.</item>
+                     <item>Nich. Battersby.</item>
+                     <item>Phil. Gardiner.</item>
+                     <item>Rob. Wynne.</item>
+                     <item>S. Brockenborough.</item>
+                     <item>Tho. Hobbs.</item>
+                     <item>Tho. Styles.</item>
+                     <item>Obad. Sedgwick.</item>
+                     <item>Henry May.</item>
+                     <item>Ra. Bucknall.</item>
+                     <item>John Travell.</item>
+                     <item>James Cauſton.</item>
+                     <item>George Walcot.</item>
+                     <item>John Harris.</item>
+                     <item>Nath. Maxey.</item>
+                     <item>Francis Boynton.</item>
+                     <item>Richard Brownlow.</item>
+                     <item>Hen. Dry.</item>
+                     <item>James Saunders.</item>
+                     <item>Charles Peers.</item>
+                     <item>Daniel Foe.</item>
+                     <item>Richard Enny<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</item>
+                     <item>Jeremiah Powell.</item>
+                     <item>Thomas French.</item>
+                     <item>A. Sedgwick.</item>
+                     <item>Champion Aſhby.</item>
+                     <item>Joſeph Paice.</item>
+                     <item>John Marlowe.</item>
+                     <item>John Blake.</item>
+                     <item>Tho. Man.</item>
+                     <item>Peter Cauſton.</item>
+                     <item>Sam. Blewik.</item>
+                     <item>Tho. Rea.</item>
+                     <item>John Arther.</item>
+                     <item>Sam. Naſh, <hi>Senior.</hi>
+                     </item>
+                     <item>Edw. Lenord.</item>
+                     <item>Edward Lloyd.</item>
+                     <item>Tho. Bird.</item>
+                     <item>
+                        <hi>St.</hi> Nich. Watts.</item>
+                     <item>John Lambe.</item>
+                     <item>John Parker.</item>
+                     <item>Theop. Boughey.</item>
+                     <item>Will. Pettet.</item>
+                     <item>Elias Gourbell.</item>
+                     <item>Philip Scarth.</item>
+                     <item>Tho. Weſtern.</item>
+                     <item>J. Rebow.</item>
+                     <item>Tho. Godfrey.</item>
+                     <item>Hugh Granger.</item>
+                     <item>John Deagle.</item>
+                     <item>Francis Paunceforte.</item>
+                     <item>John Bateman.</item>
+                     <item>Thomas Briſtowe.</item>
+                     <item>Joſeph Hindmarſh.</item>
+                     <item>Mord Abbott.</item>
+                     <item>Rob. Curtis.</item>
+                     <item>Gab. Roberts.</item>
+                     <item>James Knight.</item>
+                     <item>Henry Horſey.</item>
+                     <item>Theod. Jansſen.</item>
+                     <item>John Lingard.</item>
+                     <item>John Hays.</item>
+                     <item>James Cardrow.</item>
+                     <item>John Paſſill.</item>
+                     <item>H. Stephens.</item>
+                     <item>Mathew Perkins.</item>
+                     <item>Nath. Caſtleton.</item>
+                     <item>Nath. Pitman.</item>
+                     <item>Lancelott Skinner.</item>
+                     <item>Edward Weſt.</item>
+                     <item>Benjamin Overton.</item>
+                     <item>James Shuter.</item>
+                     <item>John Davy.</item>
+                     <item>Will. Richards.</item>
+                     <item>Peter Greve.</item>
+                     <item>Richard Blackmore.</item>
+                     <item>William Babington.</item>
+                     <item>Alex. Lozimer.</item>
+                     <item>Pheſ. Criſp.</item>
+                     <item>Tho. Man, <hi>junior.</hi>
+                     </item>
+                     <item>Philip Brewſter.</item>
+                     <item>Benj. Layton.</item>
+                     <item>William Weekes.</item>
+                     <item>Tho. Thornton.</item>
+                     <item>Edw. Folkingham.</item>
+                     <item>John Pettit.</item>
+                     <item>Charles Blackal.</item>
+                     <item>Edw. Barton.</item>
+                     <item>Tho. Sutton.</item>
+                     <item>Will. Wallis.</item>
+                     <item>Corbett Hene.</item>
+                     <item>Peter Huſſey.</item>
+                     <item>Richard Hoare.</item>
+                     <item>Will. Pilkington.</item>
+                     <item>Joſeph Billers.</item>
+                     <item>John Sanders.</item>
+                     <item>Lancelot Burton.</item>
+                     <item>Nich. Baker.</item>
+                     <item>Daniel Germain.</item>
+                     <item>Rich. Dalton.</item>
+                     <item>Chr. Rich.</item>
+                     <item>Tho. Skipwith.</item>
+                     <item>John Ridout.</item>
+                     <item>Tho. Bludworth.</item>
+                     <item>Benj. Whichcot.</item>
+                     <item>Will. Lygon.</item>
+                     <item>Nathaniel Wilmer.</item>
+                     <item>Samuel Dawes.</item>
+                     <item>Samuel James.</item>
+                     <item>Jonathan James.</item>
+                     <item>John Ledford.</item>
+                     <item>George Howe.</item>
+                     <item>John Howe, <hi>junior.</hi>
+                     </item>
+                     <item>Tho. Hamond.</item>
+                     <item>Rob. Thorold.</item>
+                     <item>Ch. Hampton.</item>
+                     <item>Henry Corniſh.</item>
+                     <item>Henry Preiſtman.</item>
+                     <item>Rob. Rochford.</item>
+                     <item>Tho. Maule.</item>
+                     <item>John Butterfeild.</item>
+                     <item>John Chambers.</item>
+                     <item>N. Whitaker.</item>
+                     <item>Nath. Houlton.</item>
+                     <item>John Lee.</item>
+                     <item>Samuel Hacker.</item>
+                     <item>James Craggs.</item>
+                     <item>Sh. Bridges.</item>
+                     <item>Henry Clarke.</item>
+                     <item>John Wintle.</item>
+                     <item>John Stanley.</item>
+                     <item>Edward Browne.</item>
+                     <item>John Hawley.</item>
+                     <item>Samuel Moſs.</item>
+                     <item>John Waller.</item>
+                     <item>John Chadwicke.</item>
+                     <item>John Clarke.</item>
+                     <item>Bill. Clayton.</item>
+                     <item>George Wheeler.</item>
+                     <item>John Coxon.</item>
+                     <item>George Burrowes.</item>
+                     <item>Nich. Beeley.</item>
+                     <item>Joſeph Speed.</item>
+                     <item>Ab. Wi<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mer.</item>
+                     <item>James Dufaii.</item>
+                     <item>John Upton.</item>
+                     <item>Edm. Jackſon.</item>
+                     <item>Will. Villier.</item>
+                     <item>John Watſon.</item>
+                     <item>John Jackſon.</item>
+                     <item>Richard Towill.</item>
+                     <item>Thomas Thynne.</item>
+                     <item>George Dodington.</item>
+                     <item>J. Uthwat.</item>
+                     <item>Claue Hays.</item>
+                     <item>Seignoret Baudowin.</item>
+                     <item>Will. Thornburgh.</item>
+                     <item>James Denew.</item>
+                     <item>John Blackall.</item>
+                     <item>John Jurin.</item>
+                     <item>Rich. Ruſſel.</item>
+                     <item>John Pickering.</item>
+                     <item>Tho. Stephens.</item>
+                     <item>John Prulton.</item>
+                     <item>Iſaac Brand.</item>
+                     <item>Philip Nisbett.</item>
+                     <item>Abraham Rolfe.</item>
+                     <item>Maurice Kay.</item>
+                     <item>Caleb Frenchfeild.</item>
+                     <item>Richard Toke.</item>
+                     <item>Robert Baylie.</item>
+                     <item>Samuel Lockley.</item>
+                     <item>Thomas Merett.</item>
+                     <item>Rich. Richardſon.</item>
+                     <item>John Nicholſon.</item>
+                     <item>Sam. Stevenſon.</item>
+                     <item>James Hudſon.</item>
+                     <item>Joſeph Waldo.</item>
+                     <item>Abrah Lethieullier.</item>
+                     <item>Edw. Richier.</item>
+                     <item>James Pope.</item>
+                     <item>Michael Roſſe.</item>
+                     <item>Peter Albert.</item>
+                     <item>William Tyndale.</item>
+                     <item>Richard Cheyney.</item>
+                     <item>Ephraim Crow.</item>
+                     <item>Richard Ryder.</item>
+                     <item>John Soame.</item>
+                     <item>Ro. Kingadrian.</item>
+                     <item>Tho. Elton.</item>
+                     <item>Stephen Clarke.</item>
+                     <item>Abraham Dugard.</item>
+                     <item>Anthony Lonzada.</item>
+                     <item>Henry Bucke.</item>
+                     <item>Stephen Locker.</item>
+                     <item>Francis Whitton.</item>
+                     <item>John Worſey.</item>
+                     <item>Robert Gower.</item>
+                     <item>Humph. Simpſon.</item>
+                     <item>Robert Thomſon.</item>
+                     <item>Rich. Smith.</item>
+                     <item>Iſaac Loade.</item>
+                     <item>James Hallett.</item>
+                     <item>John Tomlinſon.</item>
+                     <item>John Ho<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ke.</item>
+                     <item>William Smith.</item>
+                     <item>Richard Elborowe.</item>
+                     <item>Robert Stamper.</item>
+                     <item>George Merttin.</item>
+                     <item>Tho. Phipps.</item>
+                     <item>Judith Davy.</item>
+                     <item>Will. Bond.</item>
+                     <item>John Woolley.</item>
+                     <item>Richard Groſvenor.</item>
+                     <item>James Pettit.</item>
+                     <item>Richard Hyde.</item>
+                     <item>John Lyſens.</item>
+                     <item>Pa. Ellis.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Thomas Braddyll</hi> and <hi>Robert Everingham,</hi> and are to be Sold at the <hi>Seven Stars</hi> in <hi>Ave-Mary-Lane,</hi> MDCXCI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
